@@ -12,8 +12,3 @@ def calcPerfectSquare():
 
 print(calcPerfectSquare())
 
-
-
-
-
-
