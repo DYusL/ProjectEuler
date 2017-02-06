@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def calcPerfectSquare():
     for a in range(1,1001):
         for b in range(1,1001):
